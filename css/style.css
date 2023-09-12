@@ -20,6 +20,13 @@ p {
   max-width: 85ch;
 }
 
-h1, h2, p {
+h1, h2,h3, p {
 margin: auto;
 }
+ul, li {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  
+}
+
