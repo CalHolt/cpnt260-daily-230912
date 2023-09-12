@@ -1,0 +1,25 @@
+body {
+  font-family: 'Noto Sans Linear B', sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+h1 {
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
+  padding: auto;
+}
+
+h1, h2, h3 {
+  font-family: 'Bebas Neue', sans-serif;
+  max-width: 85ch;
+}
+
+p {
+  max-width: 85ch;
+}
+
+h1, h2, p {
+margin: auto;
+}
