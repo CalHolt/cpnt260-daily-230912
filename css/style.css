@@ -21,8 +21,9 @@ p {
 }
 
 h1, h2,h3, p {
-margin: auto;
+  margin: auto;
 }
+
 ul, li {
   text-align: center;
   margin: 0;
