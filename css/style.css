@@ -2,6 +2,15 @@ body {
   font-family: 'Noto Sans Linear B', sans-serif;
   font-size: 22px;
   line-height: 1.5;
+  background-color: #da856b;
+  color: #17181d;
+}
+
+section {
+  max-width: 85ch;
+  margin: auto;
+  background-color: #f1b591;
+  padding: 2rem;
 }
 
 h1 {
@@ -11,12 +20,9 @@ h1 {
   padding: auto;
 }
 
+
 h1, h2, h3 {
   font-family: 'Bebas Neue', sans-serif;
-  max-width: 85ch;
-}
-
-p {
   max-width: 85ch;
 }
 
@@ -24,10 +30,21 @@ h1, h2,h3, p {
   margin: auto;
 }
 
-ul, li {
-  text-align: center;
-  margin: 0;
-  padding: 0;
-  
+li {
+  text-align: left;
+}
+
+img {
+  width:100%;
+  border-radius: 2rem;
+  display: block;
+}
+
+.tiny-image {
+  height: 2rem;
+}
+
+a {
+  color: #454342;
 }
 
